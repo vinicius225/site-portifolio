@@ -1,0 +1,43 @@
+.main {
+
+    width: 700px;
+    background-color: none;
+    margin-left: auto;
+    margin-right: auto;
+    color: wheat;
+
+}
+.menu {
+
+    text-align: center;
+
+}
+.item {
+    margin: 0px;
+}
+body {
+    background-color: beige;
+}
+a {
+    text-decoration: unset;
+    color: wheat;
+    margin: 10px;
+}
+body {
+    background: url("imagens/background.jpg");
+    background-attachment: fixed;
+
+}
+.imagens {
+    text-align: center;
+
+ 
+}
+.rodape {
+    background-color: rgb(55, 116, 231);
+    height: 70px;
+    color: rgb(238, 197, 120);
+    text-align: center;
+
+}
+
